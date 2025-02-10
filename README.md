@@ -1,16 +1,28 @@
-### Hello world 🌎
+# 🚀 Code. Build. Repeat.
 
-<!--
-**sthales/sthales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Thales** 👋  
+Currently crafting awesome stuff at work with **GitLab** (so my GitHub graph is chill, not lazy 😉).
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 🔭 Working on **cool projects** that solve real-world problems  
+- 💡 Passionate about **clean code**, **performance optimization**, and **AI**  
+- 🌱 Always learning new things to level up my dev skills  
+- ⚡ Fun fact: My code works... *until it doesn’t* 😄  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=000)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=fff)
+![Realm](https://img.shields.io/badge/-Realm-39477F?style=flat&logo=realm&logoColor=fff)
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthales&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthales&layout=compact&theme=radical)
+
+## 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthales)
+[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/sthales)
+
+> "Commit to progress, push for excellence."
